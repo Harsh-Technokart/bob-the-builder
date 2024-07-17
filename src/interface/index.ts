@@ -1,3 +1,4 @@
 import { ISystemUserModel } from "./user.model";
-
-export { ISystemUserModel };
+import { ISubtypeModel } from "./subtype.interface";
+import { ITypeName } from "./type.interface";
+export { ISystemUserModel, ISubtypeModel, ITypeName };

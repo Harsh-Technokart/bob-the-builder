@@ -3,3 +3,13 @@
 2024-07-17T12:23:56+05:30 [main] api: GET /server/system 404 152 - 18.153 ms
 2024-07-17T12:24:46+05:30 [main] api: POST /server/system 500 698 - 50.358 ms
 2024-07-17T12:25:03+05:30 [main] api: POST /server/system 201 90 - 53.729 ms
+2024-07-17T15:51:46+05:30 [main] api: POST /server/subtype 500 692 - 79.783 ms
+2024-07-17T15:52:04+05:30 [main] api: POST /server/subtype 201 75 - 94.383 ms
+2024-07-17T15:52:49+05:30 [main] api: POST /server/subtype 201 75 - 60.428 ms
+2024-07-17T15:53:57+05:30 [main] api: POST /server/subtype 201 86 - 89.577 ms
+2024-07-17T16:38:59+05:30 [main] api: POST /server/subtype 500 898 - 230.117 ms
+2024-07-17T16:42:13+05:30 [main] api: POST /server/subtype 400 56 - 73.665 ms
+2024-07-17T17:20:59+05:30 [main] api: POST /server/subtype 400 56 - 154.719 ms
+2024-07-17T17:21:31+05:30 [main] api: POST /server/subtype 400 86 - 86.800 ms
+2024-07-17T17:21:31+05:30 [main] api: POST /server/subtype 400 86 - 54.085 ms
+2024-07-17T17:23:30+05:30 [main] api: POST /server/subtype 400 89 - 89.605 ms
