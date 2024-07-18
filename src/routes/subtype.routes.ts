@@ -1,9 +1,16 @@
 import { Router } from "express";
-import { validate } from "express-validation";
-import { createSubtypeController } from "../controller/subtype.controller";
+import { getAllSubtypesValidationMiddleware } from "../middleware/subtype_validation.middleware";
+import {
+  createSubtypeController,
+  getAllSubtypesController,
+} from "../controller/subtype.controller";
 
 const subtypeRouter = Router();
 
 subtypeRouter.post("/", createSubtypeController);
-
+subtypeRouter.get(
+  "/:type_name",
+  getAllSubtypesValidationMiddleware,
+  getAllSubtypesController
+);
 export default subtypeRouter;
