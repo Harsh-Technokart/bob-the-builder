@@ -3,7 +3,7 @@ import { getAllSubtypesValidationMiddleware } from "../middleware/subtype_valida
 import {
   createSubtypeController,
   getAllSubtypesController,
-} from "../controller/subtype.controller";
+} from "../controller";
 
 const subtypeRouter = Router();
 
@@ -13,4 +13,5 @@ subtypeRouter.get(
   getAllSubtypesValidationMiddleware,
   getAllSubtypesController
 );
+
 export default subtypeRouter;

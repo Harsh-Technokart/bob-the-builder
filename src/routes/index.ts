@@ -1,4 +1,4 @@
 import systemUserRouter from "./users.routes";
 import subtypeRouter from "./subtype.routes";
-
-export { systemUserRouter, subtypeRouter };
+import documentRouter from "./document.routes";
+export { systemUserRouter, subtypeRouter, documentRouter };
