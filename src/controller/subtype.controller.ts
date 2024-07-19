@@ -67,6 +67,7 @@ const createSubtypeController = (
  ** status_code: status code of the response
  ** status: boolean value stating if the response failed or succeeded
  ** message: optional string message
+ ** data: an array of subtypes available for the specified type
  * @param next
  */
 const getAllSubtypesController = (

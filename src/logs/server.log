@@ -885,3 +885,445 @@
 2024-07-19T11:22:37+05:30 [main] info: Connecting to the Mongo Database
 2024-07-19T11:22:47+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-01.9hi16ir.mongodb.net
 2024-07-19T11:22:47+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T11:30:42+05:30 [main] info: Database disconnected
+2024-07-19T11:31:07+05:30 [main] info: Configuring middlewares
+2024-07-19T11:31:07+05:30 [main] info: Middlewares configured
+2024-07-19T11:31:07+05:30 [main] info: Configuring routes
+2024-07-19T11:31:07+05:30 [main] info: All Routes configured
+2024-07-19T11:31:07+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T11:31:27+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-02.9hi16ir.mongodb.net
+2024-07-19T11:31:27+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T11:43:38+05:30 [main] info: Database disconnected
+2024-07-19T11:57:42+05:30 [main] info: Configuring middlewares
+2024-07-19T11:57:42+05:30 [main] info: Middlewares configured
+2024-07-19T11:57:42+05:30 [main] info: Configuring routes
+2024-07-19T11:57:42+05:30 [main] info: All Routes configured
+2024-07-19T11:57:42+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T11:57:47+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T11:57:47+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T11:58:00+05:30 [main] info: Database disconnected
+2024-07-19T11:58:27+05:30 [main] info: Configuring middlewares
+2024-07-19T11:58:27+05:30 [main] info: Middlewares configured
+2024-07-19T11:58:27+05:30 [main] info: Configuring routes
+2024-07-19T11:58:27+05:30 [main] info: All Routes configured
+2024-07-19T11:58:27+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T11:58:27+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-01.9hi16ir.mongodb.net
+2024-07-19T11:58:27+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T12:11:16+05:30 [main] info: Database disconnected
+2024-07-19T12:13:22+05:30 [main] info: Configuring middlewares
+2024-07-19T12:13:22+05:30 [main] info: Middlewares configured
+2024-07-19T12:13:22+05:30 [main] info: Configuring routes
+2024-07-19T12:13:22+05:30 [main] info: All Routes configured
+2024-07-19T12:13:22+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T12:13:28+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T12:13:28+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T12:16:43+05:30 [main] info: Database disconnected
+2024-07-19T12:17:07+05:30 [main] info: Configuring middlewares
+2024-07-19T12:17:07+05:30 [main] info: Middlewares configured
+2024-07-19T12:17:07+05:30 [main] info: Configuring routes
+2024-07-19T12:17:07+05:30 [main] info: All Routes configured
+2024-07-19T12:17:07+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T12:17:07+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-02.9hi16ir.mongodb.net
+2024-07-19T12:17:07+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T12:17:15+05:30 [main] info: Database disconnected
+2024-07-19T12:17:42+05:30 [main] info: Configuring middlewares
+2024-07-19T12:17:42+05:30 [main] info: Middlewares configured
+2024-07-19T12:17:42+05:30 [main] info: Configuring routes
+2024-07-19T12:17:42+05:30 [main] info: All Routes configured
+2024-07-19T12:17:42+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T12:17:52+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-02.9hi16ir.mongodb.net
+2024-07-19T12:17:52+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T12:18:09+05:30 [main] info: Database disconnected
+2024-07-19T12:19:48+05:30 [main] info: Configuring middlewares
+2024-07-19T12:19:48+05:30 [main] info: Middlewares configured
+2024-07-19T12:19:48+05:30 [main] info: Configuring routes
+2024-07-19T12:19:48+05:30 [main] info: All Routes configured
+2024-07-19T12:19:48+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T12:20:03+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T12:20:35+05:30 [main] info: Configuring middlewares
+2024-07-19T12:20:35+05:30 [main] info: Middlewares configured
+2024-07-19T12:20:35+05:30 [main] info: Configuring routes
+2024-07-19T12:20:35+05:30 [main] info: All Routes configured
+2024-07-19T12:20:35+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T12:20:40+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-02.9hi16ir.mongodb.net
+2024-07-19T12:21:14+05:30 [main] info: Configuring middlewares
+2024-07-19T12:21:14+05:30 [main] info: Middlewares configured
+2024-07-19T12:21:14+05:30 [main] info: Configuring routes
+2024-07-19T12:21:14+05:30 [main] info: All Routes configured
+2024-07-19T12:21:14+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T12:21:15+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T12:21:15+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T12:22:01+05:30 [main] info: Database disconnected
+2024-07-19T12:38:55+05:30 [main] info: Configuring middlewares
+2024-07-19T12:38:56+05:30 [main] info: Middlewares configured
+2024-07-19T12:38:56+05:30 [main] info: Configuring routes
+2024-07-19T12:38:56+05:30 [main] info: All Routes configured
+2024-07-19T12:38:56+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T12:39:02+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-02.9hi16ir.mongodb.net
+2024-07-19T12:39:02+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T12:41:46+05:30 [main] info: Database disconnected
+2024-07-19T12:42:09+05:30 [main] info: Configuring middlewares
+2024-07-19T12:42:09+05:30 [main] info: Middlewares configured
+2024-07-19T12:42:09+05:30 [main] info: Configuring routes
+2024-07-19T12:42:09+05:30 [main] info: All Routes configured
+2024-07-19T12:42:09+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T12:42:15+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-01.9hi16ir.mongodb.net
+2024-07-19T12:42:15+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T12:42:26+05:30 [main] info: Database disconnected
+2024-07-19T12:42:52+05:30 [main] info: Configuring middlewares
+2024-07-19T12:42:52+05:30 [main] info: Middlewares configured
+2024-07-19T12:42:52+05:30 [main] info: Configuring routes
+2024-07-19T12:42:52+05:30 [main] info: All Routes configured
+2024-07-19T12:42:52+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T12:42:58+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-01.9hi16ir.mongodb.net
+2024-07-19T12:42:58+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T12:43:33+05:30 [main] info: Database disconnected
+2024-07-19T12:43:51+05:30 [main] info: Configuring middlewares
+2024-07-19T12:43:51+05:30 [main] info: Middlewares configured
+2024-07-19T12:43:51+05:30 [main] info: Configuring routes
+2024-07-19T12:43:51+05:30 [main] info: All Routes configured
+2024-07-19T12:43:51+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T12:44:07+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T12:44:07+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T12:47:23+05:30 [main] info: Database disconnected
+2024-07-19T12:47:54+05:30 [main] info: Configuring middlewares
+2024-07-19T12:47:55+05:30 [main] info: Middlewares configured
+2024-07-19T12:47:55+05:30 [main] info: Configuring routes
+2024-07-19T12:47:55+05:30 [main] info: All Routes configured
+2024-07-19T12:47:55+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T12:48:01+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-01.9hi16ir.mongodb.net
+2024-07-19T12:48:01+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T13:11:32+05:30 [main] info: Database disconnected
+2024-07-19T13:11:48+05:30 [main] info: Configuring middlewares
+2024-07-19T13:11:48+05:30 [main] info: Middlewares configured
+2024-07-19T13:11:48+05:30 [main] info: Configuring routes
+2024-07-19T13:11:48+05:30 [main] info: All Routes configured
+2024-07-19T13:11:48+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T13:11:58+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T13:11:58+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T13:57:22+05:30 [main] info: Database disconnected
+2024-07-19T13:57:48+05:30 [main] info: Configuring middlewares
+2024-07-19T13:57:48+05:30 [main] info: Middlewares configured
+2024-07-19T13:57:48+05:30 [main] info: Configuring routes
+2024-07-19T13:57:48+05:30 [main] info: All Routes configured
+2024-07-19T13:57:48+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T13:58:09+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-01.9hi16ir.mongodb.net
+2024-07-19T13:58:09+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T14:08:58+05:30 [main] info: Database disconnected
+2024-07-19T14:09:13+05:30 [main] info: Configuring middlewares
+2024-07-19T14:09:13+05:30 [main] info: Middlewares configured
+2024-07-19T14:09:13+05:30 [main] info: Configuring routes
+2024-07-19T14:09:13+05:30 [main] info: All Routes configured
+2024-07-19T14:09:13+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T14:09:14+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T14:09:14+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T14:10:07+05:30 [main] info: Database disconnected
+2024-07-19T14:10:34+05:30 [main] info: Configuring middlewares
+2024-07-19T14:10:34+05:30 [main] info: Middlewares configured
+2024-07-19T14:10:34+05:30 [main] info: Configuring routes
+2024-07-19T14:10:34+05:30 [main] info: All Routes configured
+2024-07-19T14:10:34+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T14:10:40+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T14:10:40+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T14:13:09+05:30 [main] info: Database disconnected
+2024-07-19T14:13:53+05:30 [main] info: Configuring middlewares
+2024-07-19T14:13:54+05:30 [main] info: Middlewares configured
+2024-07-19T14:13:54+05:30 [main] info: Configuring routes
+2024-07-19T14:13:54+05:30 [main] info: All Routes configured
+2024-07-19T14:13:54+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T14:14:04+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T14:14:04+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T14:14:07+05:30 [main] info: Database disconnected
+2024-07-19T14:14:29+05:30 [main] info: Configuring middlewares
+2024-07-19T14:14:30+05:30 [main] info: Middlewares configured
+2024-07-19T14:14:30+05:30 [main] info: Configuring routes
+2024-07-19T14:14:30+05:30 [main] info: All Routes configured
+2024-07-19T14:14:30+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T14:14:35+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-02.9hi16ir.mongodb.net
+2024-07-19T14:14:35+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T14:16:17+05:30 [main] info: Database disconnected
+2024-07-19T14:16:35+05:30 [main] info: Configuring middlewares
+2024-07-19T14:16:36+05:30 [main] info: Middlewares configured
+2024-07-19T14:16:36+05:30 [main] info: Configuring routes
+2024-07-19T14:16:36+05:30 [main] info: All Routes configured
+2024-07-19T14:16:36+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T14:16:51+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T14:16:51+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T14:30:05+05:30 [main] info: Database disconnected
+2024-07-19T14:30:32+05:30 [main] info: Configuring middlewares
+2024-07-19T14:30:32+05:30 [main] info: Middlewares configured
+2024-07-19T14:30:32+05:30 [main] info: Configuring routes
+2024-07-19T14:30:32+05:30 [main] info: All Routes configured
+2024-07-19T14:30:32+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T14:30:39+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T14:30:39+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T14:31:55+05:30 [main] info: Database disconnected
+2024-07-19T14:32:29+05:30 [main] info: Configuring middlewares
+2024-07-19T14:32:29+05:30 [main] info: Middlewares configured
+2024-07-19T14:32:29+05:30 [main] info: Configuring routes
+2024-07-19T14:32:29+05:30 [main] info: All Routes configured
+2024-07-19T14:32:29+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T14:32:49+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-01.9hi16ir.mongodb.net
+2024-07-19T14:32:49+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T14:40:39+05:30 [main] info: Database disconnected
+2024-07-19T14:41:08+05:30 [main] info: Configuring middlewares
+2024-07-19T14:41:08+05:30 [main] info: Middlewares configured
+2024-07-19T14:41:08+05:30 [main] info: Configuring routes
+2024-07-19T14:41:08+05:30 [main] info: All Routes configured
+2024-07-19T14:41:08+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T14:41:14+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-02.9hi16ir.mongodb.net
+2024-07-19T14:41:14+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T14:43:08+05:30 [main] info: Database disconnected
+2024-07-19T14:43:25+05:30 [main] info: Configuring middlewares
+2024-07-19T14:43:25+05:30 [main] info: Middlewares configured
+2024-07-19T14:43:25+05:30 [main] info: Configuring routes
+2024-07-19T14:43:25+05:30 [main] info: All Routes configured
+2024-07-19T14:43:25+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T14:43:25+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-01.9hi16ir.mongodb.net
+2024-07-19T14:43:26+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T14:45:36+05:30 [main] info: Database disconnected
+2024-07-19T14:46:04+05:30 [main] info: Configuring middlewares
+2024-07-19T14:46:04+05:30 [main] info: Middlewares configured
+2024-07-19T14:46:04+05:30 [main] info: Configuring routes
+2024-07-19T14:46:04+05:30 [main] info: All Routes configured
+2024-07-19T14:46:04+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T14:46:15+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T14:46:15+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T14:46:30+05:30 [main] info: Database disconnected
+2024-07-19T14:48:33+05:30 [main] info: Configuring middlewares
+2024-07-19T14:48:33+05:30 [main] info: Middlewares configured
+2024-07-19T14:48:33+05:30 [main] info: Configuring routes
+2024-07-19T14:48:33+05:30 [main] info: All Routes configured
+2024-07-19T14:48:33+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T14:49:00+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T14:49:00+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T14:49:38+05:30 [main] info: Database disconnected
+2024-07-19T14:50:04+05:30 [main] info: Configuring middlewares
+2024-07-19T14:50:04+05:30 [main] info: Middlewares configured
+2024-07-19T14:50:04+05:30 [main] info: Configuring routes
+2024-07-19T14:50:04+05:30 [main] info: All Routes configured
+2024-07-19T14:50:04+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T14:50:05+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T14:50:05+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T14:52:11+05:30 [main] info: Database disconnected
+2024-07-19T14:52:27+05:30 [main] info: Configuring middlewares
+2024-07-19T14:52:27+05:30 [main] info: Middlewares configured
+2024-07-19T14:52:27+05:30 [main] info: Configuring routes
+2024-07-19T14:52:27+05:30 [main] info: All Routes configured
+2024-07-19T14:52:27+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T14:52:33+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T14:52:33+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T14:52:42+05:30 [main] info: Database disconnected
+2024-07-19T14:52:57+05:30 [main] info: Configuring middlewares
+2024-07-19T14:52:57+05:30 [main] info: Middlewares configured
+2024-07-19T14:52:57+05:30 [main] info: Configuring routes
+2024-07-19T14:52:57+05:30 [main] info: All Routes configured
+2024-07-19T14:52:57+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T14:53:03+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-02.9hi16ir.mongodb.net
+2024-07-19T14:53:03+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T14:53:28+05:30 [main] info: Database disconnected
+2024-07-19T14:53:42+05:30 [main] info: Configuring middlewares
+2024-07-19T14:53:42+05:30 [main] info: Middlewares configured
+2024-07-19T14:53:42+05:30 [main] info: Configuring routes
+2024-07-19T14:53:42+05:30 [main] info: All Routes configured
+2024-07-19T14:53:42+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T14:53:43+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-02.9hi16ir.mongodb.net
+2024-07-19T14:53:43+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T15:02:53+05:30 [main] info: Database disconnected
+2024-07-19T15:03:14+05:30 [main] info: Configuring middlewares
+2024-07-19T15:03:14+05:30 [main] info: Middlewares configured
+2024-07-19T15:03:14+05:30 [main] info: Configuring routes
+2024-07-19T15:03:14+05:30 [main] info: All Routes configured
+2024-07-19T15:03:14+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T15:03:15+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T15:03:15+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T15:26:19+05:30 [main] info: Database disconnected
+2024-07-19T15:26:51+05:30 [main] info: Configuring middlewares
+2024-07-19T15:26:51+05:30 [main] info: Middlewares configured
+2024-07-19T15:26:51+05:30 [main] info: Configuring routes
+2024-07-19T15:26:51+05:30 [main] info: All Routes configured
+2024-07-19T15:26:51+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T15:27:12+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-01.9hi16ir.mongodb.net
+2024-07-19T15:27:12+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T15:29:51+05:30 [main] info: Database disconnected
+2024-07-19T15:30:25+05:30 [main] info: Configuring middlewares
+2024-07-19T15:30:25+05:30 [main] info: Middlewares configured
+2024-07-19T15:30:25+05:30 [main] info: Configuring routes
+2024-07-19T15:30:25+05:30 [main] info: All Routes configured
+2024-07-19T15:30:25+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T15:30:46+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T15:30:46+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T15:32:28+05:30 [main] info: Database disconnected
+2024-07-19T15:32:53+05:30 [main] info: Configuring middlewares
+2024-07-19T15:32:53+05:30 [main] info: Middlewares configured
+2024-07-19T15:32:53+05:30 [main] info: Configuring routes
+2024-07-19T15:32:53+05:30 [main] info: All Routes configured
+2024-07-19T15:32:53+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T15:33:09+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T15:33:09+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T15:33:30+05:30 [main] info: Database disconnected
+2024-07-19T15:33:46+05:30 [main] info: Configuring middlewares
+2024-07-19T15:33:46+05:30 [main] info: Middlewares configured
+2024-07-19T15:33:46+05:30 [main] info: Configuring routes
+2024-07-19T15:33:46+05:30 [main] info: All Routes configured
+2024-07-19T15:33:46+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T15:33:47+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-01.9hi16ir.mongodb.net
+2024-07-19T15:33:47+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T15:35:10+05:30 [main] info: Database disconnected
+2024-07-19T15:35:32+05:30 [main] info: Configuring middlewares
+2024-07-19T15:35:32+05:30 [main] info: Middlewares configured
+2024-07-19T15:35:32+05:30 [main] info: Configuring routes
+2024-07-19T15:35:32+05:30 [main] info: All Routes configured
+2024-07-19T15:35:32+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T15:35:38+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T15:35:38+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T15:36:10+05:30 [main] info: Database disconnected
+2024-07-19T15:36:26+05:30 [main] info: Configuring middlewares
+2024-07-19T15:36:26+05:30 [main] info: Middlewares configured
+2024-07-19T15:36:26+05:30 [main] info: Configuring routes
+2024-07-19T15:36:26+05:30 [main] info: All Routes configured
+2024-07-19T15:36:26+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T15:36:42+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-01.9hi16ir.mongodb.net
+2024-07-19T15:36:42+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T15:37:46+05:30 [main] info: Database disconnected
+2024-07-19T15:38:04+05:30 [main] info: Configuring middlewares
+2024-07-19T15:38:04+05:30 [main] info: Middlewares configured
+2024-07-19T15:38:04+05:30 [main] info: Configuring routes
+2024-07-19T15:38:04+05:30 [main] info: All Routes configured
+2024-07-19T15:38:04+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T15:38:25+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T15:38:25+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T15:47:03+05:30 [main] info: Database disconnected
+2024-07-19T15:48:28+05:30 [main] info: Configuring middlewares
+2024-07-19T15:48:28+05:30 [main] info: Middlewares configured
+2024-07-19T15:48:28+05:30 [main] info: Configuring routes
+2024-07-19T15:48:28+05:30 [main] info: All Routes configured
+2024-07-19T15:48:28+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T15:48:39+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T15:49:02+05:30 [main] info: Configuring middlewares
+2024-07-19T15:49:02+05:30 [main] info: Middlewares configured
+2024-07-19T15:49:02+05:30 [main] info: Configuring routes
+2024-07-19T15:49:02+05:30 [main] info: All Routes configured
+2024-07-19T15:49:02+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T15:49:03+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-01.9hi16ir.mongodb.net
+2024-07-19T15:49:03+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T16:01:40+05:30 [main] info: Database disconnected
+2024-07-19T16:01:55+05:30 [main] info: Configuring middlewares
+2024-07-19T16:01:55+05:30 [main] info: Middlewares configured
+2024-07-19T16:01:55+05:30 [main] info: Configuring routes
+2024-07-19T16:01:55+05:30 [main] info: All Routes configured
+2024-07-19T16:01:55+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T16:02:16+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T16:02:16+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T16:07:41+05:30 [main] info: Database disconnected
+2024-07-19T16:08:10+05:30 [main] info: Configuring middlewares
+2024-07-19T16:08:10+05:30 [main] info: Middlewares configured
+2024-07-19T16:08:10+05:30 [main] info: Configuring routes
+2024-07-19T16:08:10+05:30 [main] info: All Routes configured
+2024-07-19T16:08:10+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T16:08:30+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T16:08:30+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T16:09:33+05:30 [main] info: Database disconnected
+2024-07-19T16:09:49+05:30 [main] info: Configuring middlewares
+2024-07-19T16:09:49+05:30 [main] info: Middlewares configured
+2024-07-19T16:09:49+05:30 [main] info: Configuring routes
+2024-07-19T16:09:49+05:30 [main] info: All Routes configured
+2024-07-19T16:09:49+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T16:09:55+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T16:09:55+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T16:10:48+05:30 [main] info: Database disconnected
+2024-07-19T16:11:15+05:30 [main] info: Configuring middlewares
+2024-07-19T16:11:15+05:30 [main] info: Middlewares configured
+2024-07-19T16:11:15+05:30 [main] info: Configuring routes
+2024-07-19T16:11:15+05:30 [main] info: All Routes configured
+2024-07-19T16:11:15+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T16:11:35+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T16:11:35+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T16:14:00+05:30 [main] info: Database disconnected
+2024-07-19T16:14:56+05:30 [main] info: Configuring middlewares
+2024-07-19T16:14:56+05:30 [main] info: Middlewares configured
+2024-07-19T16:14:56+05:30 [main] info: Configuring routes
+2024-07-19T16:14:56+05:30 [main] info: All Routes configured
+2024-07-19T16:14:56+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T16:14:57+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-02.9hi16ir.mongodb.net
+2024-07-19T16:14:57+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T16:22:05+05:30 [main] info: Database disconnected
+2024-07-19T16:22:26+05:30 [main] info: Configuring middlewares
+2024-07-19T16:22:26+05:30 [main] info: Middlewares configured
+2024-07-19T16:22:26+05:30 [main] info: Configuring routes
+2024-07-19T16:22:26+05:30 [main] info: All Routes configured
+2024-07-19T16:22:26+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T16:22:32+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T16:22:32+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T16:44:26+05:30 [main] info: Database disconnected
+2024-07-19T16:44:48+05:30 [main] info: Configuring middlewares
+2024-07-19T16:44:48+05:30 [main] info: Middlewares configured
+2024-07-19T16:44:48+05:30 [main] info: Configuring routes
+2024-07-19T16:44:48+05:30 [main] info: All Routes configured
+2024-07-19T16:44:48+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T16:44:58+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T16:44:58+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T17:10:14+05:30 [main] info: Database disconnected
+2024-07-19T17:11:13+05:30 [main] info: Configuring middlewares
+2024-07-19T17:11:13+05:30 [main] info: Middlewares configured
+2024-07-19T17:11:13+05:30 [main] info: Configuring routes
+2024-07-19T17:11:13+05:30 [main] info: All Routes configured
+2024-07-19T17:11:13+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T17:11:18+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-02.9hi16ir.mongodb.net
+2024-07-19T17:11:18+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T17:12:02+05:30 [main] info: Database disconnected
+2024-07-19T17:12:23+05:30 [main] info: Configuring middlewares
+2024-07-19T17:12:23+05:30 [main] info: Middlewares configured
+2024-07-19T17:12:23+05:30 [main] info: Configuring routes
+2024-07-19T17:12:23+05:30 [main] info: All Routes configured
+2024-07-19T17:12:23+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T17:12:23+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T17:12:23+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T17:15:35+05:30 [main] info: Database disconnected
+2024-07-19T17:15:58+05:30 [main] info: Configuring middlewares
+2024-07-19T17:15:58+05:30 [main] info: Middlewares configured
+2024-07-19T17:15:58+05:30 [main] info: Configuring routes
+2024-07-19T17:15:58+05:30 [main] info: All Routes configured
+2024-07-19T17:15:58+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T17:16:09+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T17:16:09+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T17:24:10+05:30 [main] info: Database disconnected
+2024-07-19T17:24:39+05:30 [main] info: Configuring middlewares
+2024-07-19T17:24:39+05:30 [main] info: Middlewares configured
+2024-07-19T17:24:39+05:30 [main] info: Configuring routes
+2024-07-19T17:24:39+05:30 [main] info: All Routes configured
+2024-07-19T17:24:39+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T17:24:40+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T17:24:40+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T17:27:27+05:30 [main] info: Database disconnected
+2024-07-19T17:28:05+05:30 [main] info: Configuring middlewares
+2024-07-19T17:28:05+05:30 [main] info: Middlewares configured
+2024-07-19T17:28:05+05:30 [main] info: Configuring routes
+2024-07-19T17:28:05+05:30 [main] info: All Routes configured
+2024-07-19T17:28:05+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T17:28:11+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-01.9hi16ir.mongodb.net
+2024-07-19T17:28:11+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T17:32:04+05:30 [main] info: Database disconnected
+2024-07-19T17:32:39+05:30 [main] info: Configuring middlewares
+2024-07-19T17:32:39+05:30 [main] info: Middlewares configured
+2024-07-19T17:32:39+05:30 [main] info: Configuring routes
+2024-07-19T17:32:39+05:30 [main] info: All Routes configured
+2024-07-19T17:32:39+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T17:32:40+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T17:32:40+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T17:32:46+05:30 [main] info: Database disconnected
+2024-07-19T17:33:58+05:30 [main] info: Configuring middlewares
+2024-07-19T17:33:58+05:30 [main] info: Middlewares configured
+2024-07-19T17:33:58+05:30 [main] info: Configuring routes
+2024-07-19T17:33:58+05:30 [main] info: All Routes configured
+2024-07-19T17:33:58+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T17:34:14+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-00.9hi16ir.mongodb.net
+2024-07-19T17:34:14+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode
+2024-07-19T17:34:35+05:30 [main] info: Database disconnected
+2024-07-19T17:34:57+05:30 [main] info: Configuring middlewares
+2024-07-19T17:34:57+05:30 [main] info: Middlewares configured
+2024-07-19T17:34:57+05:30 [main] info: Configuring routes
+2024-07-19T17:34:57+05:30 [main] info: All Routes configured
+2024-07-19T17:34:57+05:30 [main] info: Connecting to the Mongo Database
+2024-07-19T17:34:58+05:30 [main] info: Database connected: ac-w2yelvb-shard-00-01.9hi16ir.mongodb.net
+2024-07-19T17:34:58+05:30 [main] info: Builder Docs Server is running on port 3001 in undefined mode

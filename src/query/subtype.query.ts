@@ -1,10 +1,11 @@
+import { ISubtypeModel, type IFunctionReturnType } from "../interface";
 import { ITypeName } from "../interface";
 import { subtype } from "../models";
 
 const createSubtype = async (body_props: {
   type_name: ITypeName;
   subtype_name: string;
-}) => {
+}): IFunctionReturnType => {
   try {
     await subtype.create(body_props);
     return {
@@ -17,9 +18,11 @@ const createSubtype = async (body_props: {
   }
 };
 
-const getAllSubtypes = async (body_props: { type_name: ITypeName }) => {
+const getAllSubtypes = async (body_props: {
+  type_name: ITypeName;
+}): IFunctionReturnType => {
   try {
-    const details = await subtype.find({
+    const details: ISubtypeModel[] = await subtype.find({
       type_name: body_props.type_name,
     });
     return {

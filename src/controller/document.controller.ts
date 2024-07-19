@@ -1,6 +1,10 @@
 import { type NextFunction, type Request, type Response } from "express";
 import { UploadedFile } from "express-fileupload";
-import { uploadDocumentsForSpecificSubtype } from "../query";
+import {
+  uploadDocumentsForSpecificSubtype,
+  getPresignedUrl,
+  streamPresignedUrls,
+} from "../query";
 
 /**
  * @description: upload one or multiple documents for any specific subtype
@@ -17,7 +21,7 @@ const uploadDocumentsController = (
   req: Request<unknown, unknown, { subtype_id: string }>,
   res: Response,
   _next: NextFunction
-) => {
+): void => {
   if (req.files !== null && req.files !== undefined) {
     const files = req.files.file as unknown as UploadedFile;
     uploadDocumentsForSpecificSubtype(files, req.body.subtype_id)
@@ -38,4 +42,88 @@ const uploadDocumentsController = (
   }
 };
 
-export { uploadDocumentsController };
+/**
+ *
+ * @param req
+ *? req.params: document_id: objectid of the document whose presigned url is needed
+ * @param res
+ ** status_code: status code of the response
+ ** status: boolean value stating if the response failed or succeeded
+ ** message: optional string message
+ ** data: presigned url of the document if document exists in the database
+ * @param _next
+ */
+const getPresignedUrlController = (
+  req: Request<{ document_id: string }, unknown, unknown>,
+  res: Response,
+  _next: NextFunction
+): void => {
+  getPresignedUrl(req.params.document_id)
+    .then((details) => {
+      res.status(details.status_code).json({
+        status_code: details.status_code,
+        status: true,
+        message: details.message,
+        data: details.data,
+      });
+    })
+    .catch((error) => {
+      res.status(500).json({
+        status_code: 500,
+        status: false,
+        message: error.toString(),
+      });
+    });
+};
+
+const streamPresignedUrlController = (
+  req: Request,
+  res: Response,
+  _next: NextFunction
+) => {
+  const { blobName, sv, spr, st, se, sr, sp, sig } = req.query;
+  console.log("Received parameters at stream controller:", {
+    blobName,
+    sv,
+    spr,
+    st,
+    se,
+    sr,
+    sp,
+    sig,
+  });
+
+  if (!blobName || !sv || !spr || !st || !se || !sr || !sp || !sig) {
+    return res.status(400).json({
+      status_code: 400,
+      status: false,
+      message: "Missing required query parameters",
+    });
+  }
+
+  streamPresignedUrls(
+    blobName as string,
+    sv as string,
+    spr as string,
+    st as string,
+    se as string,
+    sr as string,
+    sp as string,
+    sig as string
+  )
+    .then((details) => {
+      res.status(details.statusCode).json(details);
+    })
+    .catch((error) => {
+      console.log("Error while streaming:", error);
+      res
+        .status(500)
+        .json({ status_code: 500, status: false, message: error.toString() });
+    });
+};
+
+export {
+  uploadDocumentsController,
+  getPresignedUrlController,
+  streamPresignedUrlController,
+};

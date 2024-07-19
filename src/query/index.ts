@@ -1,4 +1,14 @@
 import { createSubtype, getAllSubtypes } from "./subtype.query";
-import { uploadDocumentsForSpecificSubtype } from "./document.query";
+import {
+  uploadDocumentsForSpecificSubtype,
+  getPresignedUrl,
+  streamPresignedUrls,
+} from "./document.query";
 
-export { createSubtype, getAllSubtypes, uploadDocumentsForSpecificSubtype };
+export {
+  createSubtype,
+  getAllSubtypes,
+  uploadDocumentsForSpecificSubtype,
+  getPresignedUrl,
+  streamPresignedUrls,
+};
