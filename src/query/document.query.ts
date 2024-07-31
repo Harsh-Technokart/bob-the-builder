@@ -59,42 +59,4 @@ const getPresignedUrl = async (document_id: string): IFunctionReturnType => {
   }
 };
 
-const streamPresignedUrls = async (
-  blobName: string,
-  sv: string,
-  spr: string,
-  st: string,
-  se: string,
-  sr: string,
-  sp: string,
-  sig: string
-) => {
-  console.log("Trying to fetch blob:", blobName);
-  try {
-    const url = `${blobName}?sv=${sv}&st=${st}&spr=${spr}&se=${se}&sr=${sr}&sp=${sp}&sig=${encodeURIComponent(
-      sig
-    )}`;
-    console.log("Constructed URL:", url);
-
-    const response = await fetch(url);
-    console.warn("Response received from streaming:", response);
-
-    if (!response.ok) {
-      throw new Error("Incorrect presigned URL detected");
-    }
-
-    return {
-      status: true,
-      statusCode: 200,
-      data: response.url,
-    };
-  } catch (error) {
-    throw error;
-  }
-};
-
-export {
-  uploadDocumentsForSpecificSubtype,
-  getPresignedUrl,
-  streamPresignedUrls,
-};
+export { uploadDocumentsForSpecificSubtype, getPresignedUrl };

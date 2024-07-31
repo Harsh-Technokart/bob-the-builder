@@ -5,8 +5,8 @@ import {
 import {
   uploadDocumentsController,
   getPresignedUrlController,
-  streamPresignedUrlController,
 } from "./document.controller";
+import { streamPresignedUrlController } from "./stream.controller";
 
 export {
   uploadDocumentsController,

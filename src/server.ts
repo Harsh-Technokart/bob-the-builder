@@ -14,7 +14,7 @@ function startServer(): void {
     .then(() => {
       app.listen(appConfiguration.APP_PORT, () => {
         info(
-          `${appConfiguration.APP_NAME} is running on port ${appConfiguration.APP_PORT} in ${appConfiguration.APP_TYPE} mode`
+          `${appConfiguration.APP_NAME} is running on port ${appConfiguration.APP_PORT}`
         );
       });
     })

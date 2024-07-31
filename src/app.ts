@@ -12,7 +12,12 @@ import { checkServerEnvironment } from "./connection/mongo.connection";
 import compression from "compression";
 import cors from "cors";
 import express_file_upload from "express-fileupload";
-import { systemUserRouter, subtypeRouter, documentRouter } from "./routes";
+import {
+  systemUserRouter,
+  subtypeRouter,
+  documentRouter,
+  streamRouter,
+} from "./routes";
 
 const accessLogger = fs.createWriteStream(
   path.join(__dirname, "logs", "all.log"),
@@ -63,6 +68,7 @@ function setupRoutes(app: Application): void {
   app.use("/server/system", systemUserRouter);
   app.use("/server/subtype", subtypeRouter);
   app.use("/server/document", documentRouter);
+  app.use("/server/stream", streamRouter);
   info("All Routes configured");
 }
 

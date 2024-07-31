@@ -13,6 +13,7 @@
   "description": "",
   "dependencies": {
     "@azure/storage-blob": "^12.23.0",
+    "@types/node-fetch": "^2.6.11",
     "bcrypt": "^5.1.1",
     "compression": "^1.7.4",
     "connect-mongo": "^5.1.0",

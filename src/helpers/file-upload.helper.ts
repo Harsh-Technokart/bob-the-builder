@@ -65,9 +65,12 @@ async function generatePresignedUrl(blobName: string): Promise<{
       };
       // Generate the pre-signed URL
       const sasUrl = await blockBlobClient.generateSasUrl(sasOptions);
+      const customSasUrl = `http://localhost:3001/server/stream?blobName=${
+        sasUrl.split("?")[0]
+      }&${sasUrl.split("?")[1]}`;
       return await Promise.resolve({
         status: true,
-        file_access_url: sasUrl,
+        file_access_url: customSasUrl,
         message: "File Found. Access Link valid uptil 15 minutes",
       });
     }
